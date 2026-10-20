@@ -1,0 +1,6 @@
+{
+  "name": "Who's That Corvid",
+  "description": "Interactive corvid outline comparing crows, rooks, ravens, and jackdaws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
